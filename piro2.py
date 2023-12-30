@@ -1,2 +1,2 @@
 def piro2():
-    return
+    print("piro2")
